@@ -1,0 +1,6 @@
+Revision history for Perl extension Text::Multi.
+
+0.01  Sun Sep  9 12:05:47 2007
+	- original version; created by h2xs 1.23 with options
+		-X Text::Multi
+

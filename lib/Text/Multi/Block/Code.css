@@ -1,0 +1,35 @@
+.text-multi-code {
+        white-space: pre;
+        background: #0a0a0a;
+        color: #cccccc;
+        font-family: monospace;
+        font-size: .95em;
+        border: 1px solid #555555;
+        overflow: auto;
+        padding: 2em;
+        width: 46em;
+}
+.text-multi-code span.Alert { color: #0000ff; }
+.text-multi-code span.BaseN { color: #007f00; }
+.text-multi-code span.BString { color: #c9a7ff; }
+.text-multi-code span.Char { color: #ff00ff; }
+.text-multi-code span.Comment { color: #cc9900; }
+.text-multi-code span.DataType { color: #00ff55; }
+.text-multi-code span.DecVal { color: #00ffff; }
+.text-multi-code span.Error { color: #ff0000; }
+.text-multi-code span.Float { color: #5599ff; }
+.text-multi-code span.Function { color: #3344ff; }
+.text-multi-code span.IString { color: #ff0000; }
+.text-multi-code span.Keyword { color: #11ffff; font-weight: bold; }
+.text-multi-code span.Operator { color: #00ff33; font-weight: bold; }
+.text-multi-code span.Others { color: #b03060; }
+.text-multi-code span.RegionMarker { color: #96b9ff; }
+.text-multi-code span.Reserved { color: #9b30ff; font-weight: bold; }
+.text-multi-code span.String { color: #ffaa55; }
+.text-multi-code span.Variable { color: #ffff00; }
+.text-multi-code span.Warning { color: #0000ff; }
+.text-multi-code span.LineNo {
+    color:          #fff;
+    font-weight:    bold;
+    padding-right:  1em;
+}

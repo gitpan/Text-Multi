@@ -1,0 +1,27 @@
+--- 
+abstract: Transform a file containing a mixture of markup types into HTML
+author: 
+  - Jason Kohles <email@jasonkohles.com>
+distribution_type: module
+generated_by: Module::Install version 0.68
+license: perl
+meta-spec: 
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+name: Text-Multi
+no_index: 
+  directory: 
+    - inc
+    - t
+recommends: 
+  Syntax::Highlight::Engine::Kate: 0
+  Text::Markdown: 0
+requires: 
+  Carp: 0
+  Carp::Clan: 0
+  Class::Accessor::Grouped: 0
+  Class::Inspector: 0
+  Getopt::Long: 0
+  Test::More: 0
+  Text::Markdown: 0
+version: 0.01
